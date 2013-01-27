@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "052E210216B55C7600A932A7"
-               BuildableName = "ka-lite-desktop.app"
+               BuildableName = "ka-lite-macApp.app"
                BlueprintName = "ka-lite-macApp"
                ReferencedContainer = "container:ka-lite-macApp.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "052E210216B55C7600A932A7"
-            BuildableName = "ka-lite-desktop.app"
+            BuildableName = "ka-lite-macApp.app"
             BlueprintName = "ka-lite-macApp"
             ReferencedContainer = "container:ka-lite-macApp.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "052E210216B55C7600A932A7"
-            BuildableName = "ka-lite-desktop.app"
+            BuildableName = "ka-lite-macApp.app"
             BlueprintName = "ka-lite-macApp"
             ReferencedContainer = "container:ka-lite-macApp.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "052E210216B55C7600A932A7"
-            BuildableName = "ka-lite-desktop.app"
+            BuildableName = "ka-lite-macApp.app"
             BlueprintName = "ka-lite-macApp"
             ReferencedContainer = "container:ka-lite-macApp.xcodeproj">
          </BuildableReference>

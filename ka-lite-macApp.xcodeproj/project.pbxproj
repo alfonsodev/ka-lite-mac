@@ -14,7 +14,7 @@
 		052E211B16B55C7600A932A7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 052E211A16B55C7600A932A7 /* AppDelegate.m */; };
 		052E211E16B55C7600A932A7 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 052E211C16B55C7600A932A7 /* MainMenu.xib */; };
 		052E212516B55F8F00A932A7 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 052E212416B55F8F00A932A7 /* WebKit.framework */; };
-		052E527116B5891500A932A7 /* ka-lite in Resources */ = {isa = PBXBuildFile; fileRef = 052E527016B5891500A932A7 /* ka-lite */; };
+		05EEE9F016B5A8A400E88FD2 /* ka-lite in Resources */ = {isa = PBXBuildFile; fileRef = 05EEE9EF16B5A8A400E88FD2 /* ka-lite */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,7 +32,7 @@
 		052E211A16B55C7600A932A7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		052E211D16B55C7600A932A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		052E212416B55F8F00A932A7 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
-		052E527016B5891500A932A7 /* ka-lite */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ka-lite"; sourceTree = "<group>"; };
+		05EEE9EF16B5A8A400E88FD2 /* ka-lite */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ka-lite"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +112,7 @@
 		052E526F16B57E2B00A932A7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				052E527016B5891500A932A7 /* ka-lite */,
+				05EEE9EF16B5A8A400E88FD2 /* ka-lite */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -171,7 +171,7 @@
 				052E211216B55C7600A932A7 /* InfoPlist.strings in Resources */,
 				052E211816B55C7600A932A7 /* Credits.rtf in Resources */,
 				052E211E16B55C7600A932A7 /* MainMenu.xib in Resources */,
-				052E527116B5891500A932A7 /* ka-lite in Resources */,
+				05EEE9F016B5A8A400E88FD2 /* ka-lite in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
