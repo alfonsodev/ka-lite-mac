@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ka-lite-desktop' target in the 'ka-lite-desktop' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
